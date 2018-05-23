@@ -14,7 +14,7 @@ DataSet : https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 
 <p align="center"><img src="https://user-images.githubusercontent.com/5808185/40422290-851c4092-5eac-11e8-81da-b8a64f2c120e.png">
   
-Pre-Trained Model : https://keras.io/applications/#vgg16
+Pre-Trained Model @josephmiguel/v8-vgg16-model-1 : https://keras.io/applications/#vgg16
 
 Inspired Research Paper : https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf
 
