@@ -12,11 +12,13 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 
 DataSet : https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 
+<p align="center"><img src="https://user-images.githubusercontent.com/5808185/40422290-851c4092-5eac-11e8-81da-b8a64f2c120e.png">
+  
 Pre-Trained Model : https://keras.io/applications/#vgg16
 
 Inspired Research Paper : https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf
 
-<p align="center"><img src="https://user-images.githubusercontent.com/5808185/40420986-cf498828-5ea7-11e8-993c-8eee6f9defa7.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/5808185/40422241-5774347e-5eac-11e8-9dcc-560e6dfea2d5.png">
 
 
 #Image_classification #Discriminative_part_mining #Food_recognition
