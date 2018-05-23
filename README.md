@@ -14,6 +14,9 @@ DataSet : https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 
 Pre-Trained Model : https://keras.io/applications/#vgg16
 
+Inspired Research Paper : https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf
+
 <p align="center"><img src="https://user-images.githubusercontent.com/5808185/40420986-cf498828-5ea7-11e8-993c-8eee6f9defa7.png">
 
 
+#Image_classification #Discriminative_part_mining #Food_recognition
